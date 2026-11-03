@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SchoolLib/SchoolLib.csproj" />
+  <Project Path="ServerlessStudents/ServerlessStudents.csproj" />
+  <Project Path="StudentWASM/StudentWASM.csproj" />
+</Solution>
